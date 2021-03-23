@@ -66,3 +66,35 @@ https://www.hdrplusdata.org/dataset.html
 		 
 
 6-8
+
+Implementation: Initial
+
+Changes done:
+1. Normalize(mean=[0.485, 0.456, 0.406], std=[0.225, 0.225, 0.225])
+2. lr = 0.001
+3. momentum = 0.5
+
+Training accuracy: 96.38095238095238
+Test accuracy: 67.0
+
+############################
+
+Implementation: Lab-7
+
+Changes:
+1. changes from above
+2. optimizer = sgd, lr=0.001
+3. 
+
+Training accuracy: 87.52380952380953
+Test accuracy: 63.33333333333333
+
+#################
+
+Impl: lab-7
+changes:
+1. changes from above
+2. adam 0.001
+
+Training accuracy: 84.38095238095238
+Test accuracy: 61.66666666666667
