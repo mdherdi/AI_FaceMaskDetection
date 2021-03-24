@@ -534,13 +534,13 @@ Training accuracy: 81.77777777777779
 Trainig evaluation time: 8.0m 48.066688537597656s
 
 
-After 0 batches: [time:0.0m 4.1253180503845215s, Accuracy: 75.0]
-After 5 batches: [time:0.0m 38.58622646331787s, Accuracy: 68.75]
-After 10 batches: [time:0.0m 52.20506262779236s, Accuracy: 70.45454545454545]
-After 15 batches: [time:1.0m 4.804770231246948s, Accuracy: 70.3125]
-After 20 batches: [time:1.0m 20.560370683670044s, Accuracy: 66.07142857142857]
-After 25 batches: [time:1.0m 34.362346172332764s, Accuracy: 68.26923076923077]
-After 30 batches: [time:1.0m 47.68983459472656s, Accuracy: 71.37096774193549]
-After 35 batches: [time:2.0m 1.3568601608276367s, Accuracy: 71.875]
-Test accuracy: 71.0
-Test time: 2.0m 6.024771451950073s
+After 0 batches: [time:0.0m 2.2839999198913574s, Accuracy: 87.5]
+After 5 batches: [time:0.0m 13.638270378112793s, Accuracy: 72.91666666666666]
+After 10 batches: [time:0.0m 24.395268440246582s, Accuracy: 77.27272727272727]
+After 15 batches: [time:0.0m 35.51371502876282s, Accuracy: 78.90625]
+After 20 batches: [time:0.0m 46.86592411994934s, Accuracy: 78.57142857142857]
+After 25 batches: [time:0.0m 58.227649211883545s, Accuracy: 78.36538461538461]
+After 30 batches: [time:1.0m 10.134474277496338s, Accuracy: 79.03225806451613]
+After 35 batches: [time:1.0m 22.719993114471436s, Accuracy: 79.16666666666666]
+Test accuracy: 79.33333333333333
+Test time: 1.0m 26.04461407661438s
